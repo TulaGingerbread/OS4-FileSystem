@@ -1,5 +1,7 @@
 Программа для эмуляции файловой системы и проверки алгоритмов блокировки потоков.
 
+Запуск при помощи java -jar FileSystem.jar (в папке FileSystem_jar)
+
 Использован алгоритм булочной.
 
 Реализованные команды: touch file, rm file, type file, write file text, dir, test.
